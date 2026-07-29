@@ -9,7 +9,7 @@ When a base language model is initially trained (pre-trained), its **only** obje
 - By fine-tuning the model across a **wide range of different instruction types**, it learns the general ability to **follow directions**.
 - This lets the model **zero-shot or few-shot generalize** to entirely new instructions it hasn't explicitly seen during training.
 
-> 💡 **A major shift in AI belief**: for a long time, the dominant assumption was that simply building bigger models (more parameters, more memory) was the best way to make them smarter. This lesson showed that teaching a model **how to follow diverse tasks** provides a far greater jump in capability than just throwing more computing power at a raw model.
+> **A major shift in AI belief**: for a long time, the dominant assumption was that simply building bigger models (more parameters, more memory) was the best way to make them smarter. This lesson showed that teaching a model **how to follow diverse tasks** provides a far greater jump in capability than just throwing more computing power at a raw model.
 
 ---
 
