@@ -2,7 +2,7 @@
 
 ## Why This Matters for NLP
 
-Tokenization is a way of representing words, subwords, characters, or any unit produced by a tokenizer so they can be fed into a neural network. But *how* we split words isn't arbitrary — it connects directly to how human language itself is built from smaller meaningful pieces. That's what morphology studies.
+Tokenization is a way of representing words, subwords, characters, or any unit produced by a tokenizer so they can be fed into a neural network. But *how* we split words isn't arbitrary — it connects directly to how human language itself is built from smaller meaningful pieces. That's what morphology studies
 
 ## Morphological Units
 
