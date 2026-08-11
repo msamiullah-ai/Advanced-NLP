@@ -1,6 +1,6 @@
 # Advanced-NLP
 
-Personal lecture notes from **CS5302/EE519 – Foundations of Generative AI** (LUMS, Spring 2026), covering the full arc of modern NLP — from tokenization and static word embeddings, through RNNs and LSTMs, to the Transformer architecture in full mathematical detail, and finally decoding strategies, model architectures, and post-training alignment.
+Covering the full arc of modern NLP — from tokenization and static word embeddings, through RNNs and LSTMs, to the Transformer architecture in full mathematical detail, and finally decoding strategies, model architectures, and post-training alignment.
 
 Each file corresponds to one lecture and is written to be read standalone — self-contained, worked examples, and diagrams included, so no prior context from other files is required.
 
