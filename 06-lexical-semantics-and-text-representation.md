@@ -2,7 +2,7 @@
 
 ## Synonymy vs. Similarity vs. Relatedness
 
-These three concepts are often confused, but they sit on a spectrum from "identical meaning" to "loosely connected in the same world."
+These three concepts are often confused, but they sit on a spectrum from identical meaning to "loosely connected in the same world."
 
 ### Synonymy
 
